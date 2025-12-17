@@ -97,6 +97,8 @@ endmodule
 ```
 
 ## OUTPUT
+<img width="1919" height="1199" alt="Screenshot 2025-11-18 102028" src="https://github.com/user-attachments/assets/accda211-276a-4913-be78-637eda422685" />
+
 
 ## RESULT
 The packet objects were successfully randomized.
